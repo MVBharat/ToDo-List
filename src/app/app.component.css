@@ -12,3 +12,10 @@ h1{
   font-size: 30px;
   width:
 }
+input{
+  width: 300px;
+  margin: 8px;
+}
+button{
+  margin: 5px;
+}
